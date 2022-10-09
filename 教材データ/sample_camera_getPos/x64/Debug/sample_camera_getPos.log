@@ -1,4 +1,0 @@
-﻿  sample_camera_getPos.cpp
-C:\Users\ryuno\OneDrive\デスクトップ\Program\F_SUP\MagicLibrary1\sample_camera_getPos\sample_camera_getPos.cpp(37,35): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\ryuno\OneDrive\デスクトップ\Program\F_SUP\MagicLibrary1\sample_camera_getPos\sample_camera_getPos.cpp(37,19): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-  sample_camera_getPos.vcxproj -> C:\Users\ryuno\OneDrive\デスクトップ\Program\F_SUP\MagicLibrary1\x64\Debug\sample_camera_getPos.exe
